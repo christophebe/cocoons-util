@@ -1,0 +1,20 @@
+{
+  "name": "cocoons-ftp",
+  "version": "1.0.0",
+  "author": "Christophe Lombart <christophe.lombart@gmail.com>",
+  "description": "Utility functions & logger that can be used in the different cocoons modules",
+  "homepage": "http://www.cocoons.io",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christophebe/cocoons-ftp.git"
+  },
+  "dependencies": {
+    "bunyan": "^1.8.10",
+    "jsonfile": "^2.4.0",
+    "pug": "^2.0.0-beta11",
+    "rimraf": "^2.5.4"
+  },
+  "devDependencies": {},
+  "license": "Apache 2.0"
+}
