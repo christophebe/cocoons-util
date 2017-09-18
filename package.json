@@ -1,5 +1,5 @@
 {
-  "name": "cocoons-ftp",
+  "name": "cocoons-util",
   "version": "1.0.0",
   "author": "Christophe Lombart <christophe.lombart@gmail.com>",
   "description": "Utility functions & logger that can be used in the different cocoons modules",
